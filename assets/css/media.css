@@ -1,0 +1,30 @@
+
+@media (min-width: 00px) and (max-width: 824px){
+    [class*="col-"]{
+        width: 100%
+    }
+}
+
+@media (min-width:200px) and (max-width: 534px) {
+  [class*= "col-"]{
+    width: 100%;
+  }
+  .menu{
+    display: none;
+  }
+  .about{
+    margin-left: 5%;
+  }
+  .text{
+    margin-top: 10%;
+  }
+  .first-p{
+    font-size: 80px;
+  }
+  .second-p{
+    font-size: 40px;
+  }
+  .about h3{
+    font-size: 60px;
+  }
+}
