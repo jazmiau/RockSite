@@ -29,7 +29,6 @@ header a{
   /*background: url(../img/header.jpg);*/
   background-size: cover;
   height: 500px;
-  -webkit-filter: brightness(50%);
 }
 
 .back-img{
@@ -37,6 +36,7 @@ header a{
   position: absolute;
   height: 500px;
   background-size: cover;
+  -webkit-filter: brightness(50%);
 }
 
 .text{

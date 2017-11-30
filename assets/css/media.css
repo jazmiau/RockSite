@@ -3,6 +3,7 @@
     [class*="col-"]{
         width: 100%
     }
+    
 }
 
 @media (min-width:200px) and (max-width: 534px) {
