@@ -25,6 +25,24 @@ header a{
   margin-left: 55%;
 }
 
+.small-menu{
+  display: none;
+  float: right;
+  margin-right: 10px;
+}
+
+.small-menu button{
+  background-color: #343a40;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+
+.small-menu i{
+  color: grey;
+  padding: 10px;
+  font-size: 25px;
+}
+
 .init{
   /*background: url(../img/header.jpg);*/
   background-size: cover;

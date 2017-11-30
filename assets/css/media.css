@@ -3,7 +3,7 @@
     [class*="col-"]{
         width: 100%
     }
-    
+
 }
 
 @media (min-width:200px) and (max-width: 534px) {
@@ -13,6 +13,11 @@
   .menu{
     display: none;
   }
+
+  .small-menu{
+    display: inline-block;
+  }
+
   .about{
     margin-left: 5%;
   }
